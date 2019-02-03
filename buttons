@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>buttons</title>
+</head>
+<body>
+  <h4>Text Button</h4>
+  <button type="button">Click Here!</button>
+  <h4>Image Button</h4>
+  <button type="button"><img src="directory_img.png" alt = "click"/>
+</button>
+</body>
+</html>
