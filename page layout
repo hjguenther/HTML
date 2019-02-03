@@ -1,0 +1,47 @@
+<html>
+
+ <head>
+ 
+ <title>Keywords displayed on URL</title>
+ 
+ <meta/>
+ 
+ <meta name="data" content="meta, data, to, be, saved" />
+ 
+ </head>
+ 
+ <body>
+ 
+  <header>
+  
+   <h1>Title displayed on page </h1>
+   
+  </header>
+  
+  <div id=”left”>
+  
+   some menu items
+   
+  </div>
+  
+  <div id="content">
+  
+   Body content with CSS id="content" class
+   
+  </div>
+  
+  <div id=”right”>
+  
+   and some content with CSS id="right"
+   
+  </div>
+  
+  <footer>
+  
+  &copy; 2019 Heidi Guenther
+  
+  </footer>
+  
+ </body>
+ 
+</html>
